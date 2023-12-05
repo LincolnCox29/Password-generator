@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsolePassGen/1.0.0": {
+        "runtime": {
+          "ConsolePassGen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolePassGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

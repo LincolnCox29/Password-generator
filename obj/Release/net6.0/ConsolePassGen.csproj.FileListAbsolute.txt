@@ -1,0 +1,16 @@
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\bin\Release\net6.0\ConsolePassGen.exe
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\bin\Release\net6.0\ConsolePassGen.deps.json
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\bin\Release\net6.0\ConsolePassGen.runtimeconfig.json
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\bin\Release\net6.0\ConsolePassGen.dll
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\bin\Release\net6.0\ConsolePassGen.pdb
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.csproj.AssemblyReference.cache
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.AssemblyInfoInputs.cache
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.AssemblyInfo.cs
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.csproj.CoreCompileInputs.cache
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.csproj.Fody.CopyLocal.cache
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.dll
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\refint\ConsolePassGen.dll
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.pdb
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ConsolePassGen.genruntimeconfig.cache
+C:\Users\79242\Desktop\PasGen\ConsolePassGen\obj\Release\net6.0\ref\ConsolePassGen.dll
